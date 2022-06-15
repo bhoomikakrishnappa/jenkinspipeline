@@ -1,0 +1,5 @@
+pipeline{
+agent any
+stages{
+steps{
+step('cloning from git'){
